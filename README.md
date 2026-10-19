@@ -4,17 +4,24 @@
     <img alt="Wunderlab" src="https://raw.githubusercontent.com/wunderlab-ai/brand/main/svg/wunderlab-mark.svg" width="72">
   </picture>
 </p>
-
-[![Project Status: Concept](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+ 
+<p align="center">
+  <a href="https://www.repostatus.org/#wip">
+    <img src="https://www.repostatus.org/badges/latest/wip.svg" alt="Project Status: Work in Progress">
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/license-Apache--2.0-blue.svg" alt="License">
+  </a>
+  <a href="https://github.com/wunderlab-ai/core/actions/workflows/ci.yml">
+    <img src="https://github.com/wunderlab-ai/core/actions/workflows/ci.yml/badge.svg" alt="CI">
+  </a>
+</p>
 
 > **Status: early.** Interfaces will change without notice, and nothing here is ready for production use.
 
 # engine-opencl
 
 OpenCL-accelerated inference and training engine for Wunderlab, for GPUs beyond NVIDIA.
-
-[![CI](https://github.com/wunderlab-ai/engine-opencl/actions/workflows/ci.yml/badge.svg)](https://github.com/wunderlab-ai/engine-opencl/actions/workflows/ci.yml)
-[![License](https://img.shields.io/badge/license-Apache--2.0-blue.svg)](LICENSE)
 
 Part of [Wunderlab](https://github.com/wunderlab-ai/wunderlab), the local-first AI workspace.
 
